@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.indexing": false,
+		"python.analysis.useLibraryCodeForTypes": false,
+		"python.analysis.typeCheckingMode": "standard",
+
+		"editor.fontSize": 11,
+		"editor.lineHeight": 18,
+		"editor.wordWrap": "on",
+		"editor.minimap.enabled": false,
+		"editor.scrollBeyondLastLine": false,
+		"editor.renderLineHighlight": "line",
+		"editor.overviewRulerBorder": false,
+		"editor.hideCursorInOverviewRuler": true,
+		"editor.glyphMargin": false,
+		"editor.folding": false,
+		"editor.lineNumbers": "on",
+		"editor.padding.top": 4,
+		"editor.padding.bottom": 4,
+
+		"breadcrumbs.enabled": false,
+
+		"workbench.activityBar.location": "top",
+		"workbench.editor.showTabs": "single",
+		"workbench.statusBar.visible": true,
+		"workbench.sideBar.location": "left",
+		"workbench.tree.indent": 12,
+
+		"window.menuBarVisibility": "compact",
+		"window.zoomLevel": -1,
+
+		"terminal.integrated.fontSize": 11,
+		"terminal.integrated.lineHeight": 1.2
+	}
+}
